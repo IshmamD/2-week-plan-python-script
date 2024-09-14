@@ -1,6 +1,10 @@
 # 2-week-plan-python-script
 Explore Maximo work orders from 1 date to another in the future and gather their info
-This is an exact copy of the documentation I placed for the person who would go on to use this script
+
+This was an early version of the script, later on I managed to make it run a bit faster when I was forced to make a new version after a maximo update. I know that I made this in an inefficient way and it could be 
+cleaner and less repetitive, but I was a novice when I wrote this
+
+Below is an exact copy of the documentation I placed for the person who would go on to use this script
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
